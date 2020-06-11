@@ -1,0 +1,7 @@
+top.phpファイルが最初のページになります。
+
+top.php
+↓
+index.php
+↓
+result / result_name / result_theme / result_all / char / .phpへ遷移してください。
